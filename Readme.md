@@ -203,7 +203,7 @@ const reducer = (state = INITIAL_STATE, action) => {
 };
 ```
 
-## 7-ESModules (ES modülleri)
+## 7-ESModules
 
 It is for using code blocs and doing import/export. There are 2 types: named and default.
 
