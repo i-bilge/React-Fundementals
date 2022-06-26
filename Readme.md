@@ -1,6 +1,6 @@
 # JavaScript Fundementals for React
 
-## 1-Template Literals (şablon dizileri)
+## 1-Template Literals
 
 💡 Template literals works with back tick
 
