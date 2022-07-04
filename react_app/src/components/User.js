@@ -27,7 +27,7 @@ User.defaultProps = {
   salary : "no info",
   department : "no info"
 }
-User.prototype = {
+User.propType = {
   name : PropTypes.string.isRequired
 }
 
